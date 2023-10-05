@@ -100,12 +100,13 @@ input, select, textarea {
 		box-sizing: border-box;
 	}
 
+	
 	*, *:before, *:after {
 		box-sizing: inherit;
 	}
 
 	body {
-		background: #8C3048;
+		background: #2a2f4a;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3266,6 +3267,7 @@ input, select, textarea {
 		}
 
 			#header.alt.style1 .logo strong {
+				/* color: #F2A0C6; */
 				color: #6fc3df;
 			}
 
